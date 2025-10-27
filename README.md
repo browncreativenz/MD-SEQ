@@ -1,8 +1,7 @@
 # MD-SEQ
-A generative step sequencer for Elektron Machinedrum + Norns + Grid
+Generative performance sequencer for Elektron Machinedrum and Norns.
 
-MD-SEQ is a generative step sequencer for Norns that lets you create evolving, performance-ready rhythms for the Elektron Machinedrum using the Grid controller.  
-It combines structured patterns with real-time randomness, global swing, and pattern storage.
+MD-SEQ is a generative sequencer built for Norns + Grid, designed to explore evolving rhythmic structures and real-time pattern mutation on the Elektron Machinedrum. It combines hands-on randomness controls, pattern saving, and live performance tools — all in a minimal, responsive interface.
 
 ---
 
