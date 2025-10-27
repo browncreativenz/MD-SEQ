@@ -1,0 +1,14 @@
+# macOS system files
+.DS_Store
+
+# Norns data and temp directories
+dust/data/
+dust/audio/
+dust/logs/
+dust/tmp/
+dust/lib/
+dust/docs/
+
+# Backup or temp files
+*.bak
+*.backup
