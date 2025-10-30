@@ -24,7 +24,7 @@ MD-SEQ is a generative sequencer built for Norns + Grid, designed to explore evo
 Clone or download into your Norns `dust/code/` directory:
 
 cd ~/dust/code
-git clone https://github.com/YOURNAME/MD-SEQ.git
+git clone https://github.com/browncreativenz/MD-SEQ.git
 
 ---
 
