@@ -55,7 +55,7 @@ SAVE SCREEN
 
 ## 📘 User Guide
 A detailed PDF user guide is available here:  
-[View or download MD-SEQ User Guide (PDF)]([https://github.com/browncreativenz/MD-SEQ/blob/main/lib/MDSEQ-guide.pdf])
+[View or download MD-SEQ User Guide (PDF)](https://github.com/browncreativenz/MD-SEQ/blob/main/lib/MDSEQ-guide.pdf)
 
 ---
 
