@@ -53,6 +53,12 @@ SAVE SCREEN
 
 ---
 
+## 📘 User Guide
+A detailed PDF user guide is available here:  
+[View or download MD-SEQ User Guide (PDF)](docs/chaos_mod_userguide.pdf)
+
+---
+
 ## 🧾 License
 
 MIT License
